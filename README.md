@@ -58,7 +58,7 @@ This makes it easy to spot spikes and monitor network performance at a glance.
 
 This project is licensed under the **MIT License** – see the `LICENSE` file for details.Just use for Educational purposes 
 
-> ⚡ **Tip:** Keep this monitor running in the background while downloading, streaming, or gaming to see how your network behaves in real-time!
+> ⚡ **Tip:** Keep this monitor running in the background while downloading, streaming, or gaming to see how your network behaves in real-time!!!
 
 
 
